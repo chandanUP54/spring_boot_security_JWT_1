@@ -1,0 +1,14 @@
+https://www.learncodewithdurgesh.com/blogs/jwt-authentication-with-spring-boot-31
+
+https://www.geeksforgeeks.org/spring-boot-3-0-jwt-authentication-with-spring-security-using-mysql-database/
+
+https://www.linkedin.com/pulse/jwt-token-api-authentication-authorization-haroon-idrees/
+
+
+
+
+
+
+-->> 2.7.11 ..
+https://springjavatutorial.medium.com/login-and-registration-rest-api-with-spring-security-d7ee48820bd0
+
